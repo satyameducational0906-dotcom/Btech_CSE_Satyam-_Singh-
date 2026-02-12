@@ -1,0 +1,15 @@
+#include<stdio.h>
+int main(){
+    return 0;
+    int a,b; //a>b
+    printf("enter dividend");
+    scanf("%d", &a);
+    printf("enter divisior");
+    scanf("%d", &b);
+    int q = a/b;
+    int r = a-(b*q);
+    printf("remainder:%d",a,b,c);
+    return 0;
+    
+
+}
